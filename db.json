@@ -1,0 +1,64 @@
+{
+  "produtos": [
+    {
+      "id": "cars1",
+      "nome": "PS5",
+      "valor": 3800,
+      "url": "https://t2.tudocdn.net/528131?w=1920"
+    },
+    {
+      "id": "caw2",
+      "nome": "Xbox",
+      "valor": 3690,
+      "url": "https://http2.mlstatic.com/D_Q_NP_797995-MLA45042591114_032021-O.webp"
+    },
+    {
+      "id": "cdb0",
+      "nome": "Nintendo",
+      "valor": 399.9,
+      "url": "https://cdn.awsli.com.br/800x800/2487/2487672/produto/176672259/50ccee7b64.jpg"
+    },
+    {
+      "id": "5147",
+      "nome": "PC GAMER BRANCO",
+      "valor": 5999.99,
+      "url": "https://http2.mlstatic.com/D_NQ_NP_967557-MLB74150317286_012024-O.webp"
+    },
+    {
+      "id": "1c37",
+      "nome": "KIT GAMER COMPLETO ",
+      "valor": 8000,
+      "url": "https://imgs.casasbahia.com.br/1534961675/1xg.jpg"
+    },
+    {
+      "id": "1ed8",
+      "nome": "Mouse Gamer",
+      "valor": 199.9,
+      "url": "https://m.media-amazon.com/images/I/61vRQ6eRZIL._AC_SL1500_.jpg"
+    },
+    {
+      "id": "03ef",
+      "nome": "Cabo DisplayPort",
+      "valor": 150,
+      "url": "https://m.media-amazon.com/images/I/61p8zhwvuML.__AC_SX300_SY300_QL70_ML2_.jpg"
+    },
+    {
+      "id": "a089",
+      "nome": "PenDrive Kingston",
+      "valor": 63,
+      "url": "https://m.media-amazon.com/images/I/710AjaRYtFL.__AC_SY300_SX300_QL70_ML2_.jpg"
+    },
+    {
+      "id": "f8d6",
+      "nome": "Notebook Gamer",
+      "valor": 11200,
+      "url": "https://m.media-amazon.com/images/I/51O4bS147tL.__AC_SY300_SX300_QL70_ML2_.jpg"
+    },
+    {
+      "id": "f33c",
+      "nome": "MousePad Gamer",
+      "valor": 70,
+      "url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTvMC3MJ7Im6yxIPMY3htbNojdzzgntj5fWbWXX3ek_jb60_Z2aLrp--zaBmOeRx0oqPb27QwcQ7QATDskPIAQcbMmxlB5ftPiZ8WFJX300WrWYFm23x6atCB7AG384RpPmGmVCT_l8&usqp=CAc"
+    }
+  ]
+}
