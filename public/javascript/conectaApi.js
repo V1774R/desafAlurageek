@@ -1,6 +1,6 @@
 const listAll = async () => {
     try{
-        const products = await fetch('http://localhost:3000/produtos');
+        const products = await fetch('https://desafalurageek.onrender.com/produtos');
         const productsJson = await products.json();
         return productsJson;
     }catch(error){
@@ -17,7 +17,7 @@ const inserirProduto = async (produto) => {
             },
             body: JSON.stringify(produto)
         }
-        const conexao = await fetch('http://localhost:3000/produtos', configs);
+        const conexao = await fetch('https://desafalurageek.onrender.com/produtos', configs);
         const conexaoConvertida = await conexao.json();
         console.log(conexaoConvertida);
         return conexaoConvertida;
@@ -31,7 +31,7 @@ const deletar = async (id) => {
         const configs = {
             method: 'DELETE'
         }
-        const produto = await fetch(`http://localhost:3000/produtos/${id}`, configs);
+        const produto = await fetch(`https://desafalurageek.onrender.com/produtos/${id}`, configs);
         console.log(produto);
         return produto;
     }catch(error){
